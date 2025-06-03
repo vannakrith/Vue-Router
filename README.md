@@ -58,6 +58,8 @@ It's defined route structure in index.ts file of router/ folder
 6. Programmatic Routing: 
 - We navigate to a route using code, we use `router.push('/car/${car.id}')`
 
+7. Query param
+
 
 ## What is useRoute() ? 
 - Defintion: It's a vue router func that give us access to info abt the current route inside our component. 
